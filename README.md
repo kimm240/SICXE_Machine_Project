@@ -26,10 +26,11 @@ _무엇을 구현했는가?_
 | Assemble 설명 | SP 2020 프로젝트 2 명세서.pdf |
 | Linker, Loader 설명 | 2020년 시스템 프로그래밍 프로젝트 3 명세서.pdf |
 
-_어떻게 구현했는가?_ 
-아래 What? 의 숫자는 구현 목록의 번호를 의미.
 
-(예: 1 -> 구현1: Assembler, Linker, Loader을 실행할 shell)
+
+_어떻게 구현했는가?_ 
+
+아래 What? 의 숫자는 구현 목록의 번호를 의미. (예: 1 -> 구현1: Assembler, Linker, Loader을 실행할 shell)
 | What? | Where? |
 | ------ | ------ |
 | 1 | project1_sp.docx |
