@@ -18,7 +18,7 @@ About SIC/XE Machine Architecture? https://www.geeksforgeeks.org/sic-xe-architec
 Addison-Wesley Publishing, 1997)의 Chap2.2까지 설명된 SIC/XE Assembler의 기능을 구현.)
 5. assemble 명령을 통해서 생성된 object 파일(proga.obj, progb.obj, progc.obj,copy.obj)들을 link시켜 메모리에 올리고, 이를 실행한다.
 
-## _Detail?_
+## _Detail_
 _무엇을 구현했는가?_
 | What? | Where? |
 | ------ | ------ |
